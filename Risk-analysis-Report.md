@@ -1,22 +1,20 @@
----
-
 # **1 Data Science Role**
 
 ## **1.1 Job Description and Role Identification**
 
-* **Analyze credit risk data**
+- **Analyze credit risk data**
   → Look at customer loan and credit card data to find out who are likely to miss payments.
 
-* **Produce reports & recommendations**
+- **Produce reports & recommendations**
   → Use visualization tools to create reports that clearly show what's going on, and suggest actions.
 
-* **Monitor portfolio performance**
+- **Monitor portfolio performance**
   → Keep track of how groups of customers are performing — are they paying back loans? Is risk increasing?
 
-* **Run impact analysis**
+- **Run impact analysis**
   → If the company wants to change a rule or policy (like loan approval criteria), use data to predict the effects before it happens.
 
-* **Support audits & governance**
+- **Support audits & governance**
   → Help prepare reports and insights needed for meetings or reviews.
 
 **Job listing URL:** [https://builtin.com/job/credit-risk-analyst-pay/6796443](https://builtin.com/job/credit-risk-analyst-pay/6796443)
